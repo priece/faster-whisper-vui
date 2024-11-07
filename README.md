@@ -1,5 +1,5 @@
 # faster-whisper-vui
-A simple web-UI for faster-whisper.
+A simple web-UI for faster-whisper. Implement by python fastapi and vue3 front.
 
 ## Features
 - Run a python server which can do these things
