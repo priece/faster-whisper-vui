@@ -1,0 +1,7 @@
+{
+    "model_path": "/mnt/data/local-disk1/whisper-large-v3-float32",
+    "device": "cuda",
+    "compute_type": "float32",
+    "upload_path": "/tmp/upload",
+    "output_path": "/tmp/output"
+}
